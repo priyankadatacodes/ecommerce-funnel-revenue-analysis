@@ -34,7 +34,7 @@ The goal of this project is to:
 ---
 
 ## Dataset
-- Source: Brazilian OLIST E-Commerce Dataset (Kaggle)
+- Source: https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
 - Level of analysis: Order-level
 - Main tables used:
   - Orders
