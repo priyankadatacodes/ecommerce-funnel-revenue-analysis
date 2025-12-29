@@ -1,5 +1,5 @@
 # E-Commerce Funnel & Revenue Leakage Analysis 
-![Python](https://img.shields.io/badge/Library-Python-150458)-![SQL](https://img.shields.io/badge/SQL-MySQL-orange)-![Dashboard](https://img.shields.io/badge/Tableau-blue)
+![Python](https://img.shields.io/badge/Library-Python-150458)-![SQL](https://img.shields.io/badge/SQL-MySQL-orange)-![Dashboard](https://img.shields.io/badge/Dashboard-Tableau-blue)
 
 ## Executive Summary
 In this project, I analyzed the end-to-end e-commerce order funnel using the Brazilian OLIST dataset.  
