@@ -128,6 +128,12 @@ The Tableau dashboard provides:
 - Revenue contribution by product category  
 - Seller-level delivery performance  
 
+## **Dashboard Preview**
+
+![Tableau Dashboard - E-Commerce Funnel Analysis](https://raw.githubusercontent.com/priyankadatacodes/ecommerce-funnel-revenue-analysis/main/dashboard/tableau_dashboard.png)
+
+The dashboard provides a comprehensive overview of the order funnel, delivery performance, and seller-level KPIs with interactive filters for deeper analysis.
+
 The dashboard is designed to be simple, clean, and easy for business teams to interpret.  
 
 ## **Final Takeaway**
